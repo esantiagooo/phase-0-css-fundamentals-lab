@@ -3,3 +3,11 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  color: rgb(153, 33, 33);
+  text-align: center;
+  
+}
+#featured-property{
+  text-align: center;
+}
